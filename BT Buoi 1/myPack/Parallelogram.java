@@ -8,7 +8,7 @@ public class Parallelogram {
         return a * 2 + b * 2;
     }
 
-    public double area() {
+    public double Area() {
         return Math.max(a, b) * h;
     }
 }
